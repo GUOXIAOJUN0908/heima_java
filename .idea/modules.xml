@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Model/Model1.iml" filepath="$PROJECT_DIR$/Model/Model1.iml" />
       <module fileurl="file://$PROJECT_DIR$/heima_java.iml" filepath="$PROJECT_DIR$/heima_java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop_test/oop_test.iml" filepath="$PROJECT_DIR$/oop_test/oop_test.iml" />
     </modules>
   </component>
 </project>
